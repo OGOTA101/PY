@@ -1,0 +1,47 @@
+[
+    {
+        "title": "miko",
+        "fixed": [
+            "<lora:sketch v2:3>. <lora:boldline:-2>,",
+            "an anime girl, 1girl, solo,cute,in room, , (flat:2),sakura miko, women, lady,22 years old,corset, "
+        ],
+        "variables": [
+            [
+                "(chubby belly:1.0), embarrassed, grab belly,pout,very sweaty",
+                "(chubby belly:1.2), embarrassed, grab belly,pout,very sweaty",
+                "(chubby belly:1.4), embarrassed, grab belly,pout,very sweaty"
+            ]
+        ]
+    },
+    {
+        "title": "miko",
+        "fixed": [
+            "<lora:sketch v2:3>. <lora:boldline:-2>,",
+            "an anime girl, 1girl, solo,cute,in room, , (flat:2),sakura miko, women, lady,22 years old,corset, "
+        ],
+        "variables": [
+            [
+                "(chubby belly:1.0), embarrassed, grab belly,pout,very sweaty",
+                "(chubby belly:1.2), embarrassed, grab belly,pout,very sweaty",
+                "(chubby belly:1.4), embarrassed, grab belly,pout,very sweaty"
+            ]
+        ]
+    },
+    {
+        "fixed": [
+            "",
+            ""
+        ],
+        "variables": [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    }
+]
